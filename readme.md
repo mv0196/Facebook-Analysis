@@ -1,4 +1,4 @@
-## To get ypor own data:
+## To get your own data:
 ### 1.go to the link-  "https://www.facebook.com/dyi/?x=AdlCD-255-Xsl9B3&referrer=yfi_settings"
 ### 2.select .json format
 ### 3.wait for 5-10 minutes
